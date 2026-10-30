@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "login": "ventohvh",
+  "seed": "#9D8DFF",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "streak",
+    "buttons",
+    "wave"
+  ],
+  "hidden": [
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Artur / ember",
+    "subtitle": "Reverse engineer \u00b7 Backend developer \u00b7 Game tools",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Saint Petersburg"
+      },
+      {
+        "icon": "code",
+        "label": "C++ \u00b7 Windows"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "psychology",
+        "label": "Reverse engineering & low-level programming"
+      },
+      {
+        "icon": "sports_esports",
+        "label": "Building software and tools for games"
+      },
+      {
+        "icon": "database",
+        "label": "Backend development & services"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "Exploring Windows internals"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Development",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "Windows"
+          },
+          {
+            "icon": "sports_esports",
+            "label": "DirectX 11"
+          }
+        ]
+      },
+      {
+        "title": "Tools & UI",
+        "items": [
+          {
+            "icon": "widgets",
+            "label": "Dear ImGui"
+          },
+          {
+            "icon": "code",
+            "label": "Visual Studio"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/vruntime"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "shape": "pill",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "label": "Contact me",
+        "url": "https://t.me/vruntime",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "My repositories",
+        "url": "https://github.com/ventohvh?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}

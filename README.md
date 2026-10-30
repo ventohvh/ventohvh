@@ -1,23 +1,21 @@
-# 💫 About Me:
+<div align="center">
 
-Hi, I'm Artur — a reverse engineer and backend developer from Saint Petersburg.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Artur / ember"></picture>
 
-I develop software and tools for games, build backend services, and explore how things work under the hood.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="40.938%" alt=""></picture><a href="https://t.me/vruntime"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="40.938%" alt=""></picture>
 
-My interests include reverse engineering, Windows internals, and low-level programming.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-## 🌐 Socials:
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vruntime)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-# 💻 Tech Stack:
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
-![DirectX 11](https://img.shields.io/badge/DirectX_11-107C10?style=for-the-badge)
-![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-292D3E?style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="25.403%" alt=""></picture><a href="https://t.me/vruntime"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.714%" alt="Contact me"></picture></a><a href="https://github.com/ventohvh?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="26.478%" alt="My repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="25.403%" alt=""></picture>
 
-# 📊 GitHub Stats:
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-[![ventohvh GitHub Stats](https://stats.hyo.dev/api/github-stats-advanced?login=ventohvh)](https://github.com/ventohvh)
+<a href="https://metawka.github.io/expressive-profile/?from=ventohvh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
