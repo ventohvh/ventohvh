@@ -1,5 +1,5 @@
 {
- "key": "e500fd80",
+ "key": "bc674541",
  "stars": 0,
  "contributions": 141,
  "repos": 2,
@@ -84,9 +84,13 @@
    {
     "c": 1,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
